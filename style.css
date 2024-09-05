@@ -8,6 +8,16 @@
     background-color: #7ac3e2;
 }
 
+#routeplanner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar ul {
+    padding: 0px;
+}
 .navbar ul li{
     display: inline;
 }
