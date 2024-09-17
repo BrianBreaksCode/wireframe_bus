@@ -13,7 +13,17 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url('images/bus.jpg');
+    background-position: center;
+    margin-bottom: 0;
+    margin-top: 0;
 }
+
+#routeplanner h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 
 .navbar ul {
     padding: 0px;
